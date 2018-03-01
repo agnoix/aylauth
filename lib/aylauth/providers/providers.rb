@@ -1,0 +1,5 @@
+require "aylauth/settings"
+require "aylauth/providers/google_provider"
+require "aylauth/providers/provider_resolver"
+require "aylauth/providers/facebook_provider"
+require "aylauth/providers/nil_provider"
